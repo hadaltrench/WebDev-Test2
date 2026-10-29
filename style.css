@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to left, #faebd7, #f3e2c8);
+    font-family: monospace;
+    color: #632107;
+    font-size: 16px;
+}
+
+.hero {
+    background: darkgoldenrod;
+    height: 200px;
+    text-align: center;
+    color: #faebd7;
+    padding-top: 5px;
+    text-shadow: #f3e2c8 ;
+}
+
+h1 {
+    font-size: 55px;
+}
+h2 {
+    font-size: 30px;
+}
+
+.product {
+    align-items: left;
+}
+
+img {
+    width: 300px;
+    transition: move(5px, 0.5s ease);
+    transform: scale(10px ease);
+}
+
+footer {
+    margin-top: 16%;
+    text-align: center;
+    color: #e9cdac;
+}
